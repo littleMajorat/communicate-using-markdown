@@ -4,6 +4,10 @@
 $ git version
 git version 2.39.1.windows.1
 ```
+## Goals
+- [X] Learn Markdown
+- [ ] Define repository objectives and purpose
+- [ ] Make a description of myself
 
 ## Add an header
 ### [Bug solution]: Need to create Pull Request
