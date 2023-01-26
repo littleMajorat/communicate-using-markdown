@@ -1,5 +1,10 @@
 # Using Markdown
 
+```
+$ git version
+git version 2.39.1.windows.1
+```
+
 ## Add an header
 ### [Bug solution]: Need to create Pull Request
 
